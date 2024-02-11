@@ -1,0 +1,1 @@
+place template minigameutils:lobby2 ~1 ~-1 ~1
