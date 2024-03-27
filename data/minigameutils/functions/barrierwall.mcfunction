@@ -1,1 +1,1 @@
-fill ~ ~ ~ ~ ~10 ~ barrier
+$fill ~ ~ ~ ~ ~$(height) ~ barrier
