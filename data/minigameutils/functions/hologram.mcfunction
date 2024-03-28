@@ -1,0 +1,1 @@
+$summon text_display ~ ~ ~ {billboard:"center",text:'{"text": "$(text)"}'}
